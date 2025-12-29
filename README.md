@@ -1,11 +1,6 @@
 
 # 🌐 Intent — Free Digital Identity for Everyone
 
-<p align="center">
-  <img src="img.shields.io" alt="Status">
-  <img src="img.shields.io" alt="Non-Profit">
-  
-</p>
 
 ---
 
