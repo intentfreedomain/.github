@@ -1,12 +1,32 @@
-## Hi there 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+# 🌐 Intent — Free Digital Identity for Everyone
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+---
+
+### 👋 Giving Everyone an Identity on the Internet
+At **Intent**, we believe a digital home should be accessible to everyone, regardless of their budget. We provide **free subdomains** and infrastructure to help users, students, and open-source developers build their presence online without costs.
+
+- 🌍 **Website:** [Intent](https://int.yt)
+- 🕊️ **Our Stance:** 100% Non-Profit. No ads. No tracking. No cost.
+- 🚀 **Mission:** Breaking the barrier to entry for personal web development.
+
+---
+
+### 🛠️ What We Offer
+*   **Free Subdomains:** Get your own unique address under the `int.yt,n8.to,i11.eu` domain.
+*   **Instant Setup:** Seamless integration with GitHub Pages and other hosting providers.
+*   **Privacy First:** Minimal data collection for maximum user freedom.
+
+### 🤝 How to Join or Contribute
+We are a community-driven project. Whether you are looking for a subdomain or want to help us manage the infrastructure:
+1.  **Request a Domain:** Visit [int.yt](https://int.yt) to see available namespaces.
+2.  **Open Source:** Check out our [Subdomain Registry repository](github.com) to submit a PR.
+3.  **Support Us:** Help us stay non-profit by contributing code or documentation.
+
+---
+
+<p align="center">
+  <i>Empowering the next generation of internet users. Built by the community, for the community.</i>
+</p>
