@@ -1,6 +1,6 @@
 
 
-# 🌐 Intent — Free Digital Identity for Everyone
+# 🌐 Intent™ — A Non-Profit
 
 
 ---
