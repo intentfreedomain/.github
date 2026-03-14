@@ -15,7 +15,7 @@ At **Intent**, we believe a digital home should be accessible to everyone, regar
 ---
 
 ### 🛠️ What We Offer
-*   **Free Subdomains:** Get your own unique address under the `int.yt,n8.to,i11.eu` domain.
+*   **Free Subdomains:** Get your own unique address under the `int.yt,nc.to,gw.to,rh.to,yn.to` domain.
 *   **Instant Setup:** Seamless integration with GitHub Pages and other hosting providers.
 *   **Privacy First:** Minimal data collection for maximum user freedom.
 
